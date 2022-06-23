@@ -20,4 +20,4 @@ if (operator == '+') {
 }
 
 // display the result
-console.log(`${number1} ${operator} ${number2} = ${result}`);
+alert(`${number1} ${operator} ${number2} = ${result}`);
